@@ -1,0 +1,29 @@
+@media (max-width: @screen-xs) {
+    body{font-size: 10px;}
+}
+
+@media (max-width: @screen-sm) {
+    body{font-size: 14px;}
+}
+
+
+h5{
+    font-size: 1.4em;
+} 
+
+body {
+	font-family: 'Lucida Grande', sans-serif;
+	color: #666666;
+}
+.container {
+	max-width: 90%;
+	float: none;
+	margin-right: auto;
+	margin-left: auto;
+	margin-bottom: 5px;
+	margin-top: 10px;
+}
+
+h3 {
+	color: #f07c17;
+}
