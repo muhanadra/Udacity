@@ -1,0 +1,13 @@
+body {
+	font-family: 'Lucida Grande', sans-serif;
+	color: #666;
+}
+
+.container {
+	max-width: 90%;
+	float: none;
+	margin: 10px auto;
+
+.orange {
+	color: #f07c17;
+}
