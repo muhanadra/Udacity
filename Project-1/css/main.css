@@ -1,13 +1,28 @@
 body {
-	font-family: 'Lucida Grande', sans-serif;
+	font: 'Lucida Grande', sans-serif;
 	color: #666;
+	font-size: 16px;
+	line-height: 2em;
 }
 
 .container {
-	max-width: 90%;
-	float: none;
-	margin: 10px auto;
+	max-width: 1024px;
+}
 
-.orange {
+.subtitle {
 	color: #f07c17;
+	font-weight: 600;
+	margin: 0 0 20px 0;
+    font-size: 200%
+}
+
+.title {
+	padding:20px;
+	font-size: 300%;
+}
+
+.features {
+	padding: 25px;
+	border: 1px solid #ccc;
+	margin: 30px auto;
 }
